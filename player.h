@@ -13,5 +13,5 @@ class Player
     list<Holding> holdings;
     list<Personality> army;
 
-    void DeckBuilder();
+    DeckBuilder deck;
 };
